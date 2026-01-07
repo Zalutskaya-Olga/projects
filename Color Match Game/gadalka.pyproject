@@ -1,0 +1,13 @@
+{
+    "files": [
+        "game_logic.py",
+        "game_window.py",
+        "main.py",
+        "main_window.ui",
+        "resources.qrc",
+        "settings.py",
+        "settings_dialog.ui",
+        "stats.py",
+        "stats_dialog.ui"
+    ]
+}

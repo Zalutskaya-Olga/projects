@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/styles">
+    <file>styles/style.css</file>
+  </qresource>
+  <qresource prefix="/sounds">
+    <file>sounds/success.mp3</file>
+    <file>sounds/fail.mp3</file>
+  </qresource>
+</RCC>
